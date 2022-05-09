@@ -1,6 +1,6 @@
 # Texas Hold-Em Winning Hand Odds Calculator
 
-This is a program that calculates the odds of achieving a winning hand at Texas Hold-Em. The primary use of this program is for the user to learn odds of different hands  written in Java to practice Object Oriented Programming.
+This is a program that calculates the odds of achieving a winning hand at Texas Hold-Em. The primary use of this program is for the user to learn odds of different hands. Program is written in Java to practice Object Oriented Programming.
 
 - Deal random cards to 4 players
 
